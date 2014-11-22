@@ -44,7 +44,7 @@ Column Number | Column Name | Column Description
 ------------- | ------------| -------------------
 1 | activity | Descriptive name of the activity of the subject
 2 | subject | Test subject id
-3 to 35 | Formatted mean and standard deviation Columns names | Represents the average mean and standard deviavtion of measurements.  
+3 to 68 | Formatted mean and standard deviation Columns names | Represents the average mean and standard deviavtion of measurements.  
 
 
 ###SECTION-4
